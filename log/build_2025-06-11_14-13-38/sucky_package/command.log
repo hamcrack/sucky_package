@@ -1,4 +1,0 @@
-Invoking command in '/home/hamish/dev_ws/src/sucky_package/build/sucky_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/hamish/.local/bin/cmake --build /home/hamish/dev_ws/src/sucky_package/build/sucky_package -- -j4 -l4
-Invoked command in '/home/hamish/dev_ws/src/sucky_package/build/sucky_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/hamish/.local/bin/cmake --build /home/hamish/dev_ws/src/sucky_package/build/sucky_package -- -j4 -l4
-Invoking command in '/home/hamish/dev_ws/src/sucky_package/build/sucky_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/hamish/.local/bin/cmake --install /home/hamish/dev_ws/src/sucky_package/build/sucky_package
-Invoked command in '/home/hamish/dev_ws/src/sucky_package/build/sucky_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/hamish/.local/bin/cmake --install /home/hamish/dev_ws/src/sucky_package/build/sucky_package
