@@ -1,5 +1,7 @@
 /home/hamish/dev_ws/src/sucky_package/install/sucky_package/share/sucky_package/config/sucky.rviz
+/home/hamish/dev_ws/src/sucky_package/install/sucky_package/share/sucky_package/config/controllers.yaml
 /home/hamish/dev_ws/src/sucky_package/install/sucky_package/share/sucky_package/description/useful_tags.xacro
+/home/hamish/dev_ws/src/sucky_package/install/sucky_package/share/sucky_package/description/ros2_control.xacro
 /home/hamish/dev_ws/src/sucky_package/install/sucky_package/share/sucky_package/description/gazebo_control.xacro
 /home/hamish/dev_ws/src/sucky_package/install/sucky_package/share/sucky_package/description/lidar.xacro
 /home/hamish/dev_ws/src/sucky_package/install/sucky_package/share/sucky_package/description/depth_camera.xacro
