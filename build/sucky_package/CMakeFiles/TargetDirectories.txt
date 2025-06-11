@@ -1,0 +1,9 @@
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/uninstall.dir
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/sucky_package_uninstall.dir
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/test.dir
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/edit_cache.dir
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/rebuild_cache.dir
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/list_install_components.dir
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/install.dir
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/install/local.dir
+/home/hamish/dev_ws/src/sucky_package/build/sucky_package/CMakeFiles/install/strip.dir

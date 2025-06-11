@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hamish/dev_ws/src/sucky_package/build/sucky_package/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
